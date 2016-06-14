@@ -1,5 +1,7 @@
 {
 	"version": "LFO v1.0.6",
+	"serverHOST": "https://lfo-63877.onmodulus.net",
+	"serverPORT": 8080,
 	"start": {
 		"downloadId": "nYJX2IKZ",
 		"key": "JkVTdmXoqMpUhv6iFBqYLrA1gBbWg12Fn6TjOlAijfo",
