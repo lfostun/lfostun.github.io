@@ -1,10 +1,10 @@
 {
-	"version": "LFO v1.2.1",
+	"version": "LFO v1.2.2",
 	"serverHOST": "https://lfo-87433.onmodulus.net",
 	"serverPORT": 8080,
 	"start": {
-		"downloadId": "3EZGiJ4R",
-		"key": "ICgRato5e3U9WJ7pmCfaGv33BAkeNb4mDEcc0r19jVk",
+		"downloadId": "DUInmRyR",
+		"key": "EfM_bAfvlQ-OEwixJBEian7UV8-tFeAu42hXD_HcabA",
 		"hash": "",
 		"verify": false
 	},
