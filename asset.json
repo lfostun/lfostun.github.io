@@ -11,7 +11,7 @@
 	"game": {
 		"main": {
 			"bg.lfo": {
-				"downloadId": "CFBzCKZT",
+				"downloadId": "KBZAkKJL",
 				"key": "HTn8bjT_cd2bhiilbndhVb2ehqY5yN9Py1vQjH4jglg",
 				"hash": "E2I/XI4IlEvucIOTDB+9KQ==",
 				"verify": true
@@ -2885,9 +2885,9 @@
 				"verify": false
 			},
 			"loadmap.dat": {
-				"downloadId": "CNADQDZZ",
-				"key": "T29sY7kOyCcX9YV1fA3m6czN0wNaeGK9tP6dPhkFmjU",
-				"hash": "HTEgMSmZSnCGJkTQ8wxevw==",
+				"downloadId": "KZhWVCSI",
+				"key": "A8kmlZN3DLo_G58Lh2Q4Cr8HDgRX63qBTBsRXkXfKFY",
+				"hash": "ohOmyJctY3ZqafUNsuoabQ==",
 				"verify": true
 			},
 			"loadpak.dat": {
@@ -2903,21 +2903,21 @@
 				"verify": true
 			},
 			"loadstory.dat": {
-				"downloadId": "GZYGVQpT",
-				"key": "7U5yV90aQgB9XBb9n1P-LAwNIYpfxIwv6uLK8_vmiNs",
-				"hash": "hAMadz4DBdB7Wg3ywptgIA==",
+				"downloadId": "3UQQDZhK",
+				"key": "MBTcEWq1stkDM148tAflxZtk0N7PJjGGpwlw7R0HwzA",
+				"hash": "Qfu0y7HbKh0x6aroEsEg7A==",
 				"verify": true
 			},
 			"loadstorylist.lfo": {
-				"downloadId": "LQw3VRpI",
+				"downloadId": "PUxESJ7J",
 				"key": "rGMGH03wx9c4Cw6Q9d8QLlVKDKSiu4lH6JYMvvO0QMg",
 				"hash": "jkYSA+kcMgkZBQnmUjnsYg==",
 				"verify": true
 			},
 			"map.lfo": {
-				"downloadId": "rNBG3ZjR",
-				"key": "r2CKjAAuBU-5Z7XVp_Jd_1iLYwCY1L2R1xsrt5rFkPA",
-				"hash": "1sHkzwSl/0GIjwpap1vFYQ==",
+				"downloadId": "2FwwFApQ",
+				"key": "T5tkvD2eBOvbIdf7WD2TtVNa4LJHOEB42zUpKZv2yeI",
+				"hash": "9l6JLmcY1OoW9te5WKaWPw==",
 				"verify": true
 			},
 			"mdogsys.dll": {
@@ -2969,8 +2969,8 @@
 				"verify": false
 			},
 			"script.lfo": {
-				"downloadId": "XIJTDRIA",
-				"key": "z4Xr6NPCvP7f3YfHllySktf2rHxPhDJsD_jXKHiYU74",
+				"downloadId": "rd53WDQD",
+				"key": "kLZ_APcwGggJNU9EsJjHgCYa93Y5YgV8q7qXOhpLc3E",
 				"hash": "uPBZpI2T6gTCAu/GENGDbw==",
 				"verify": true
 			},
@@ -3005,9 +3005,9 @@
 				"verify": false
 			},
 			"spe.lfo": {
-				"downloadId": "zEx1jSLb",
-				"key": "9Tqw5OgEPaWn5tBLrO27W_fe_apJb5Q0xCz94YbSMc0",
-				"hash": "xDGdn+WypVtHh4DbcCwtnQ==",
+				"downloadId": "WEgXWShb",
+				"key": "33ix8Eno_5aKMQSso1w258utjFTmUNcMaEdgxwDmPFc",
+				"hash": "hJqeVSzv38Vkj4AH3QGlow==",
 				"verify": true
 			},
 			"speb.lfo": {
@@ -3017,39 +3017,39 @@
 				"verify": false
 			},
 			"spec.lfo": {
-				"downloadId": "vdhBBY6b",
-				"key": "X9qz0KAHUQtmhkBBaiK7Qc8a1e15FpPBs4yPfCakxdw",
-				"hash": "77oRRp8YcYZl+I+/KeT33w==",
+				"downloadId": "nA5A1JLb",
+				"key": "WOo8zf1r4jWDtdIqqcowl-Cnuyt-DQ_cTDs2TU7qfgI",
+				"hash": "59ldkqFmJTPG5xTqKI2/8A==",
 				"verify": true
 			},
 			"spen.lfo": {
-				"downloadId": "fQYHFYqA",
-				"key": "PdTAKnjx_lyCaW_1T86_FXldI3M7XMbL9rn-MMpaK8o",
-				"hash": "ByuK67YILvHVNtgTvn247Q==",
-				"verify": false
+				"downloadId": "yU5FURjY",
+				"key": "8DWpHYKCGGMxFcZXgpSK6j3_RQwCG1G_UgV-s6mNies",
+				"hash": "ULWinM9u/tx2/y2Ggi3pqg==",
+				"verify": true
 			},
 			"spes.lfo": {
-				"downloadId": "ycRnwKpA",
-				"key": "qQTBkXMQWvDD2JlspYFatnDVER76NjF5Ewt2u2n_b2I",
-				"hash": "OBUHHF9xdDSmUtVjVSgXKg==",
+				"downloadId": "nEwGARQR",
+				"key": "SgyzQi97oNMgVIoRz3HWQdnIMMb3hIbKAtBH9O8u07o",
+				"hash": "8j/YY7bxLDSlONhh0mVNhw==",
 				"verify": true
 			},
 			"spew.lfo": {
-				"downloadId": "fUYxiLTR",
-				"key": "7kZzSllF7Yl5avnDNZDSSJEVRsBJTL8vgO_SCOnAy4k",
-				"hash": "oQs0dp5SjPDHU/mZJQp3Uw==",
+				"downloadId": "fFYHTSqS",
+				"key": "CS_yxdJz9jh8RApeqzhtL0bkcf6EJkvSyUnTAO9_YkE",
+				"hash": "apYWYS5XHKl8IboA6SvHhg==",
 				"verify": true
 			},
 			"story.lfo": {
-				"downloadId": "CVpXEApC",
-				"key": "XnTR0n0ZjkZQkP18d2Dfhx_rdF-LuOKL8KO7JYdE0KI",
-				"hash": "o8LZSYDHh6OOlEWvBu7fHA==",
+				"downloadId": "3A5jTayB",
+				"key": "pBTtzETrU0sb5rev0STW6XhIHUTfJQoyX6_AMUHe-Po",
+				"hash": "hQ8upRQscWNipGeA/kBzdQ==",
 				"verify": true
 			},
 			"string.lfo": {
-				"downloadId": "OR5HjAhK",
-				"key": "vSuVmgGQ5-U8aoEbJUck8GS-pyMXkXxyR-CP9sbJJNo",
-				"hash": "vj/81CKgUX3weFT9HB5AAQ==",
+				"downloadId": "OA4ynRBL",
+				"key": "gEeMfpCKFGovXYxnHro2_LzUqobSd-EFgVHz3CYZq78",
+				"hash": "uI8ydbo56tuoIjhc723REw==",
 				"verify": true
 			},
 			"string.tzw": {
@@ -3071,7 +3071,7 @@
 				"verify": false
 			},
 			"talk.lfo": {
-				"downloadId": "fUJ2TA5Y",
+				"downloadId": "rN41Faob",
 				"key": "NEh6ShtcAvbCssuKYA09CJzo-w7ByEUyDtjVPBX-iMI",
 				"hash": "3ATmmECy9EBPZehxz7IIAA==",
 				"verify": true
@@ -3083,15 +3083,15 @@
 				"verify": false
 			},
 			"_opalist": {
-				"downloadId": "TVwCjSyR",
-				"key": "gO5KnSwqcsBIUj120flWDB7KnUnIiXVRjosNkl2MvVY",
-				"hash": "vJPBSsfU+EyC5IGJiMPtEQ==",
+				"downloadId": "aQxDwLRZ",
+				"key": "v1xguRXK2f-OPvZMXSiX-fKT3jpqN0ofg_pSh0Q-JzY",
+				"hash": "JWq5it1KXfZf67nUflPNkw==",
 				"verify": true
 			},
 			"_opaopa": {
-				"downloadId": "LBBC3IRJ",
-				"key": "P9vmsHTVnuoTY27UsNw-XPPSj5GOsLzkO6GWD3WQo-Q",
-				"hash": "/5vg/gmchLsa926s7JED1w==",
+				"downloadId": "mdYWHaJK",
+				"key": "0R4_4Y1M-ordvib_DMSSA3lwWgYwWtJXt4gr0DKzhD4",
+				"hash": "NFUhCG5H1S3TEXD8sjhTxg==",
 				"verify": true
 			}
 		},
